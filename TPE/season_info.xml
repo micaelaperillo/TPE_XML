@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<season_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated_at="2022-11-16T13:11:17+00:00" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/soccer/v4 ../../../schemas/season_info.xsd">
+  <coverage type="competition">
+    <competition_properties brackets="false" missing_players="false" player_transfer_history="true" schedules="true" season_player_statistics="true" season_stats_leaders="true" season_team_statistics="true" standings="post" team_squads="true"/>
+    <sport_event_properties basic_play_by_play="true" basic_player_stats="true" basic_team_stats="true" extended_player_stats="false" extended_team_stats="false" deeper_play_by_play="true" deeper_team_stats="true" deeper_player_stats="true" lineups="true" goal_scorers="true" scores="live"/>
+  </coverage>
+  <season id="sr:season:69056" name="Superliga 19/20" start_date="2019-07-26" end_date="2020-03-10" year="19/20" competition_id="sr:competition:155">
+    <sport id="sr:sport:1" name="Soccer"/>
+    <category id="sr:category:48" name="Argentina" country_code="ARG"/>
+    <competition id="sr:competition:155" name="Liga Profesional" gender="men"/>
+  </season>
+  <stages>
+    <stage order="1" type="league" phase="regular season" start_date="2019-07-26" end_date="2020-03-10" year="19/20">
+      <groups>
+        <group id="sr:league:43398" name="Superliga" max_rounds="23">
+          <competitors>
+            <competitor id="sr:competitor:3218" name="Atletico Lanus" country="Argentina" country_code="ARG" abbreviation="LAN" gender="male"/>
+            <competitor id="sr:competitor:3201" name="CA San Lorenzo de Almagro" country="Argentina" country_code="ARG" abbreviation="SLO" gender="male"/>
+            <competitor id="sr:competitor:3215" name="Racing Club Avellaneda" country="Argentina" country_code="ARG" abbreviation="RAC" gender="male"/>
+            <competitor id="sr:competitor:3217" name="Club Atletico Rosario Central" country="Argentina" country_code="ARG" abbreviation="ROS" gender="male"/>
+            <competitor id="sr:competitor:3208" name="Velez Sarsfield" country="Argentina" country_code="ARG" abbreviation="VEL" gender="male"/>
+            <competitor id="sr:competitor:3211" name="CA River Plate (ARG)" country="Argentina" country_code="ARG" abbreviation="RIV" gender="male"/>
+            <competitor id="sr:competitor:3205" name="Gimnasia Y Esgrima La Plata" country="Argentina" country_code="ARG" abbreviation="GLP" gender="male"/>
+            <competitor id="sr:competitor:3216" name="Argentinos Juniors" country="Argentina" country_code="ARG" abbreviation="ARG" gender="male"/>
+            <competitor id="sr:competitor:3202" name="Boca Juniors" country="Argentina" country_code="ARG" abbreviation="BOC" gender="male"/>
+            <competitor id="sr:competitor:3209" name="CA Independiente Avellaneda" country="Argentina" country_code="ARG" abbreviation="CAI" gender="male"/>
+            <competitor id="sr:competitor:3204" name="Union de Santa Fe" country="Argentina" country_code="ARG" abbreviation="UNI" gender="male"/>
+            <competitor id="sr:competitor:3207" name="Colon de Santa Fe" country="Argentina" country_code="ARG" abbreviation="COL" gender="male"/>
+            <competitor id="sr:competitor:3210" name="CA Talleres de Cordoba" country="Argentina" country_code="ARG" abbreviation="CAT" gender="male"/>
+            <competitor id="sr:competitor:3212" name="Newell´s Old Boys" country="Argentina" country_code="ARG" abbreviation="NOB" gender="male"/>
+            <competitor id="sr:competitor:3206" name="Estudiantes de La Plata" country="Argentina" country_code="ARG" abbreviation="ELP" gender="male"/>
+            <competitor id="sr:competitor:3219" name="CA Banfield" country="Argentina" country_code="ARG" abbreviation="BAN" gender="male"/>
+            <competitor id="sr:competitor:3221" name="Arsenal de Sarandi" country="Argentina" country_code="ARG" abbreviation="ARS" gender="male"/>
+            <competitor id="sr:competitor:7629" name="CA Huracan" country="Argentina" country_code="ARG" abbreviation="HUR" gender="male"/>
+            <competitor id="sr:competitor:6074" name="CD Godoy Cruz" country="Argentina" country_code="ARG" abbreviation="GOD" gender="male"/>
+            <competitor id="sr:competitor:36833" name="Atletico Tucuman" country="Argentina" country_code="ARG" abbreviation="CAT" gender="male"/>
+            <competitor id="sr:competitor:36839" name="Defensa y Justicia" country="Argentina" country_code="ARG" abbreviation="DYJ" gender="male"/>
+            <competitor id="sr:competitor:36836" name="CA Aldosivi" country="Argentina" country_code="ARG" abbreviation="CAA" gender="male"/>
+            <competitor id="sr:competitor:43741" name="CA Patronato Parana" country="Argentina" country_code="ARG" abbreviation="CAP" gender="male"/>
+            <competitor id="sr:competitor:65676" name="CA Central Cordoba SE" country="Argentina" country_code="ARG" abbreviation="CC" gender="male"/>
+          </competitors>
+          <coverage type="group">
+            <group_properties brackets="false" cup="false" league="true" missing_players="false" qualification="false" schedules="true" results="true" standings="live" group_stage="false"/>
+            <sport_event_properties basic_play_by_play="true" basic_player_stats="true" basic_team_stats="true" lineups="true" extended_player_stats="false" extended_team_stats="false" deeper_team_stats="true" deeper_player_stats="true" deeper_play_by_play="true" goal_scorers="true" scores="live"/>
+          </coverage>
+        </group>
+      </groups>
+    </stage>
+  </stages>
+</season_info>
